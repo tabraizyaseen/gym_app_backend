@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# adding secret file
+gym_app_backend/secrets.py
